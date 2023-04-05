@@ -1,0 +1,574 @@
+APK found:  /run/media/blackshibe/_/system/priv-app/Traceur/Traceur.apk
+com.android.traceur
+APK found:  /run/media/blackshibe/_/system/priv-app/MtpService/MtpService.apk
+com.android.mtp
+APK found:  /run/media/blackshibe/_/system/priv-app/VpnDialogs/VpnDialogs.apk
+com.android.vpndialogs
+APK found:  /run/media/blackshibe/_/system/priv-app/MusicFX/MusicFX.apk
+com.android.musicfx
+APK found:  /run/media/blackshibe/_/system/priv-app/BlockedNumberProvider/BlockedNumberProvider.apk
+com.android.providers.blockednumber
+APK found:  /run/media/blackshibe/_/system/priv-app/InputDevices/InputDevices.apk
+com.android.inputdevices
+APK found:  /run/media/blackshibe/_/system/priv-app/Tag/Tag.apk
+com.android.apps.tag
+APK found:  /run/media/blackshibe/_/system/priv-app/SharedStorageBackup/SharedStorageBackup.apk
+com.android.sharedstoragebackup
+APK found:  /run/media/blackshibe/_/system/priv-app/ArtFilterCamera-xxhdpi-release/ArtFilterCamera-xxhdpi-release.apk
+com.sonyericsson.android.addoncamera.artfilter
+APK found:  /run/media/blackshibe/_/system/priv-app/MediaProviderLegacy/MediaProviderLegacy.apk
+com.android.providers.media
+APK found:  /run/media/blackshibe/_/system/priv-app/ONS/ONS.apk
+com.android.ons
+APK found:  /run/media/blackshibe/_/system/priv-app/UserDictionaryProvider/UserDictionaryProvider.apk
+com.android.providers.userdictionary
+APK found:  /run/media/blackshibe/_/system/priv-app/CameraPanorama-release/CameraPanorama-release.apk
+com.sonyericsson.android.camera3d
+APK found:  /run/media/blackshibe/_/system/priv-app/CalendarProvider/CalendarProvider.apk
+com.android.providers.calendar
+APK found:  /run/media/blackshibe/_/system/priv-app/NfcExtraResources/NfcExtraResources.apk
+com.sonymobile.nfcextension.nfcextraresources
+APK found:  /run/media/blackshibe/_/system/priv-app/CallLogBackup/CallLogBackup.apk
+com.android.calllogbackup
+APK found:  /run/media/blackshibe/_/system/priv-app/DownloadProvider/DownloadProvider.apk
+com.android.providers.downloads
+APK found:  /run/media/blackshibe/_/system/priv-app/LocalTransport/LocalTransport.apk
+com.android.localtransport
+APK found:  /run/media/blackshibe/_/system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk
+com.android.backupconfirm
+APK found:  /run/media/blackshibe/_/system/priv-app/SemcCameraUI-xxhdpi-release/SemcCameraUI-xxhdpi-release.apk
+com.sonyericsson.android.camera
+APK found:  /run/media/blackshibe/_/system/priv-app/MmsService/MmsService.apk
+com.android.mms.service
+APK found:  /run/media/blackshibe/_/system/priv-app/SoundPicker/SoundPicker.apk
+com.android.soundpicker
+APK found:  /run/media/blackshibe/_/system/priv-app/ContactsProvider/ContactsProvider.apk
+com.android.providers.contacts
+APK found:  /run/media/blackshibe/_/system/priv-app/DownloadProviderUi/DownloadProviderUi.apk
+com.android.providers.downloads.ui
+APK found:  /run/media/blackshibe/_/system/priv-app/SmartCleaner/SmartCleaner.apk
+com.sonymobile.smartcleaner
+APK found:  /run/media/blackshibe/_/system/priv-app/BuiltInPrintService/BuiltInPrintService.apk
+com.android.bips
+APK found:  /run/media/blackshibe/_/system/priv-app/ManagedProvisioning/ManagedProvisioning.apk
+com.android.managedprovisioning
+APK found:  /run/media/blackshibe/_/system/priv-app/DeviceSecurityService/DeviceSecurityService.apk
+com.sonymobile.devicesecurity.service
+APK found:  /run/media/blackshibe/_/system/priv-app/FusedLocation/FusedLocation.apk
+com.android.location.fused
+APK found:  /run/media/blackshibe/_/system/priv-app/SettingsProvider/SettingsProvider.apk
+com.android.providers.settings
+APK found:  /run/media/blackshibe/_/system/priv-app/StatementService/StatementService.apk
+com.android.statementservice
+APK found:  /run/media/blackshibe/_/system/priv-app/com.sonymobile.addoncamera.portraitselfie/com.sonymobile.addoncamera.portraitselfie.apk
+com.sonymobile.addoncamera.portraitselfie
+APK found:  /run/media/blackshibe/_/system/priv-app/CellBroadcastLegacyApp/CellBroadcastLegacyApp.apk
+com.android.cellbroadcastreceiver
+APK found:  /run/media/blackshibe/_/system/priv-app/SomcColorGamut/SomcColorGamut.apk
+com.sonymobile.colorgamut
+APK found:  /run/media/blackshibe/_/system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk
+com.android.externalstorage
+APK found:  /run/media/blackshibe/_/system/priv-app/TelephonyProvider/TelephonyProvider.apk
+com.android.providers.telephony
+APK found:  /run/media/blackshibe/_/system/priv-app/Shell/Shell.apk
+com.android.shell
+APK found:  /run/media/blackshibe/_/system/priv-app/Telecom/Telecom.apk
+com.android.server.telecom
+APK found:  /run/media/blackshibe/_/system/app/PrintSpooler/PrintSpooler.apk
+com.android.printspooler
+APK found:  /run/media/blackshibe/_/system/app/BluetoothMidiService/BluetoothMidiService.apk
+com.android.bluetoothmidiservice
+APK found:  /run/media/blackshibe/_/system/app/NfcNci/NfcNci.apk
+com.android.nfc
+APK found:  /run/media/blackshibe/_/system/app/CameraExtensionsProxy/CameraExtensionsProxy.apk
+com.android.cameraextensions
+APK found:  /run/media/blackshibe/_/system/app/SunlightBooster/SunlightBooster.apk
+com.sonymobile.sunlightbooster
+APK found:  /run/media/blackshibe/_/system/app/LensAppStub/LensAppStub.apk
+com.google.ar.lens
+APK found:  /run/media/blackshibe/_/system/app/CertInstaller/CertInstaller.apk
+com.android.certinstaller
+APK found:  /run/media/blackshibe/_/system/app/CompanionDeviceManager/CompanionDeviceManager.apk
+com.android.companiondevicemanager
+APK found:  /run/media/blackshibe/_/system/app/SecureElement/SecureElement.apk
+com.android.se
+APK found:  /run/media/blackshibe/_/system/app/PacProcessor/PacProcessor.apk
+com.android.pacprocessor
+APK found:  /run/media/blackshibe/_/system/app/HTMLViewer/HTMLViewer.apk
+com.android.htmlviewer
+APK found:  /run/media/blackshibe/_/system/app/NfcSimMonitor/NfcSimMonitor.apk
+com.sonymobile.nfc.sim
+APK found:  /run/media/blackshibe/_/system/app/WallpaperBackup/WallpaperBackup.apk
+com.android.wallpaperbackup
+APK found:  /run/media/blackshibe/_/system/app/GoogleExtShared/GoogleExtShared.apk
+com.google.android.ext.shared
+APK found:  /run/media/blackshibe/_/system/app/EasterEgg/EasterEgg.apk
+com.android.egg
+APK found:  /run/media/blackshibe/_/system/app/LiveWallpapersPicker/LiveWallpapersPicker.apk
+com.android.wallpaper.livepicker
+APK found:  /run/media/blackshibe/_/system/app/Bluetooth/Bluetooth.apk
+com.android.bluetooth
+APK found:  /run/media/blackshibe/_/system/app/KeyChain/KeyChain.apk
+com.android.keychain
+APK found:  /run/media/blackshibe/_/system/app/NfcServiceMenu/NfcServiceMenu.apk
+com.sonymobile.nfcservicemenu
+APK found:  /run/media/blackshibe/_/system/app/BookmarkProvider/BookmarkProvider.apk
+com.android.bookmarkprovider
+APK found:  /run/media/blackshibe/_/system/app/BasicDreams/BasicDreams.apk
+com.android.dreams.basic
+APK found:  /run/media/blackshibe/_/system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-ldpi.apk
+Shit
+APK found:  /run/media/blackshibe/_/system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-xxxhdpi.apk
+Shit
+APK found:  /run/media/blackshibe/_/system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-tvdpi.apk
+Shit
+APK found:  /run/media/blackshibe/_/system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-xhdpi.apk
+Shit
+APK found:  /run/media/blackshibe/_/system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle.apk
+com.google.android.captiveportallogin
+APK found:  /run/media/blackshibe/_/system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-hdpi.apk
+Shit
+APK found:  /run/media/blackshibe/_/system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-xxhdpi.apk
+Shit
+APK found:  /run/media/blackshibe/_/system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-mdpi.apk
+Shit
+APK found:  /run/media/blackshibe/_/system/app/PartnerBookmarksProvider/PartnerBookmarksProvider.apk
+com.android.providers.partnerbookmarks
+APK found:  /run/media/blackshibe/_/system/app/DisplayBooster/DisplayBooster.apk
+com.sonymobile.displaybooster
+APK found:  /run/media/blackshibe/_/system/app/SimAppDialog/SimAppDialog.apk
+com.android.simappdialog
+APK found:  /run/media/blackshibe/_/system/app/CalendarGoogle/CalendarGoogle.apk
+com.google.android.calendar
+APK found:  /run/media/blackshibe/_/system/app/SmartPrediction/SmartPrediction.apk
+com.sonymobile.prediction
+APK found:  /run/media/blackshibe/_/system/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk
+com.google.android.printservice.recommendation
+APK found:  /run/media/blackshibe/_/system/app/CarrierDefaultApp/CarrierDefaultApp.apk
+com.android.carrierdefaultapp
+APK found:  /run/media/blackshibe/_/system/app/white-balance/white-balance.apk
+com.sonymobile.whitebalance
+APK found:  /run/media/blackshibe/_/system/app/Stk/Stk.apk
+com.android.stk
+APK found:  /run/media/blackshibe/_/system/app/GooglePay/GooglePay.apk
+com.google.android.apps.walletnfcrel
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/usb-mtp-update-wrapper/usb-mtp-update-wrapper.apk
+com.sonyericsson.mtp.extension.update
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/usb-mtp-fotaupdate-wrapper/usb-mtp-fotaupdate-wrapper.apk
+com.sonymobile.mtp.extension.fotaupdate
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/ims/ims.apk
+org.codeaurora.ims
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/AesEntitlementClientService/AesEntitlementClientService.apk
+com.sonymobile.aes.entitlementcheck
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/com.qualcomm.location/com.qualcomm.location.apk
+com.qualcomm.location
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/enhancedusbux/enhancedusbux.apk
+com.sonyericsson.usbux
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/SmartCharger-release/SmartCharger-release.apk
+com.sonymobile.smartcharger
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/SemcPowerSaveModule/SemcPowerSaveModule.apk
+com.sonyericsson.psm.sysmonservice
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/DataDisclaimer_sharedUserId/DataDisclaimer_sharedUserId.apk
+com.sonymobile.datadisclaimer
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/StartupFlagV2/StartupFlagV2.apk
+com.sonyericsson.startupflagservice
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/AppPrediction/AppPrediction.apk
+com.sonymobile.appprediction
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/com.facebook.system/com.facebook.system.apk
+com.facebook.system
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/SoundEnhancement/SoundEnhancement.apk
+com.sonyericsson.soundenhancement
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/xrcbservice/xrcbservice.apk
+com.qualcomm.qti.xrcb
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/SemcMusic/SemcMusic.apk
+com.sonyericsson.music
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/SomcWifiService/SomcWifiService.apk
+com.sonymobile.wifi
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/ExtendedAudioService/ExtendedAudioService.apk
+com.sonymobile.audioutil
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/UpdateCenter-release/UpdateCenter-release.apk
+com.sonyericsson.updatecenter
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/CoverApp2-release/CoverApp2-release.apk
+com.sonymobile.coverapp2
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/EmergencyInfo/EmergencyInfo.apk
+com.android.emergency
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/SomcExtTelephony/SomcExtTelephony.apk
+com.sonymobile.telephony.extension
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/WallpaperCropper/WallpaperCropper.apk
+com.android.wallpapercropper
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/SomcWifiDisplay/SomcWifiDisplay.apk
+com.sonymobile.tvout.wifidisplay
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/SEMCSetupWizard/SEMCSetupWizard.apk
+com.sonyericsson.setupwizard
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/usb-mtp-vendor-extension-service/usb-mtp-vendor-extension-service.apk
+com.sonyericsson.mtp
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/SomcWifiPresetNetwork/SomcWifiPresetNetwork.apk
+com.sonymobile.wifi.presetnetwork
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/dpmserviceapp/dpmserviceapp.apk
+com.qti.dpmserviceapp
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/SmartNetworkEngineExt/SmartNetworkEngineExt.apk
+com.sonymobile.smartnetworkengine.ext
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/StorageManager/StorageManager.apk
+com.android.storagemanager
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/SideSenseApp/SideSenseApp.apk
+com.sonymobile.sidesenseapp
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/device-monitor_sharedUserId/device-monitor_sharedUserId.apk
+com.sonyericsson.devicemonitor
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/IntelligentGesture/IntelligentGesture.apk
+com.sonymobile.intelligent.gesture
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/Settings/Settings.apk
+com.android.settings
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/app-assist-light-release/app-assist-light-release.apk
+com.sonymobile.assist_light
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/StaminaLevel/StaminaLevel.apk
+com.sonymobile.staminalevel
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/XperiaSystemServer/XperiaSystemServer.apk
+com.sonymobile.xperiasystemserver
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/CarrierConfig/CarrierConfig.apk
+com.android.carrierconfig
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/aptxals/aptxals.apk
+com.qualcomm.qtil.aptxals
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/WfdService/WfdService.apk
+com.qualcomm.wfd.service
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/SomcDualDrive/SomcDualDrive.apk
+com.sonymobile.dualdrive
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/com.sonymobile.retaildemo/com.sonymobile.retaildemo.apk
+com.sonymobile.retaildemo
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/IntelligentBacklight/IntelligentBacklight.apk
+com.sonymobile.intelligent.backlight
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/SystemUI/SystemUI.apk
+com.android.systemui
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/SmartNetworkEngine/SmartNetworkEngine.apk
+com.sonymobile.smartnetworkengine
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/SetupWizard/SetupWizard.apk
+com.google.android.setupwizard
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
+com.qualcomm.qcrilmsgtunnel
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/QAS_DVC_MSP/QAS_DVC_MSP.apk
+com.qti.ltebc
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/com.facebook.services/com.facebook.services.apk
+com.facebook.services
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/SuperStamina/SuperStamina.apk
+com.sonymobile.superstamina
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/com.qualcomm.qti.services.systemhelper/com.qualcomm.qti.services.systemhelper.apk
+com.qualcomm.qti.services.systemhelper
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/GoogleFeedback/GoogleFeedback.apk
+com.google.android.feedback
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk
+com.google.android.gsf
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/LockscreenSettings-sc2-release/LockscreenSettings-sc2-release.apk
+com.sonyericsson.lockscreen.uxpnxt
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/Launcher3QuickStep/Launcher3QuickStep.apk
+com.sonymobile.launcher
+APK found:  /run/media/blackshibe/_/system/system_ext/priv-app/xrvdservice/xrvdservice.apk
+com.qualcomm.qti.xrvd.service
+APK found:  /run/media/blackshibe/_/system/system_ext/app/SomcClockPlugins.apk
+com.sonymobile.keyguard.clock
+APK found:  /run/media/blackshibe/_/system/system_ext/app/WAPPushManager/WAPPushManager.apk
+com.android.smspush
+APK found:  /run/media/blackshibe/_/system/system_ext/app/btidd/btidd.apk
+com.sonymobile.btidd
+APK found:  /run/media/blackshibe/_/system/system_ext/app/ServiceMenu/ServiceMenu.apk
+com.sonyericsson.android.servicemenu
+APK found:  /run/media/blackshibe/_/system/system_ext/app/LocationAttribution/LocationAttribution.apk
+com.sonymobile.gps.locationattribution
+APK found:  /run/media/blackshibe/_/system/system_ext/app/DropboxObserver/DropboxObserver.apk
+com.sonymobile.dropbox.system
+APK found:  /run/media/blackshibe/_/system/system_ext/app/embms/embms.apk
+com.qualcomm.embms
+APK found:  /run/media/blackshibe/_/system/system_ext/app/SomcExtGps/SomcExtGps.apk
+com.sonymobile.gps.extension
+APK found:  /run/media/blackshibe/_/system/system_ext/app/com.sonymobile.support/com.sonymobile.support.apk
+com.sonymobile.support
+APK found:  /run/media/blackshibe/_/system/system_ext/app/ExternalKeyboardJP/ExternalKeyboardJP.apk
+com.sonymobile.android.externalkeyboardjp
+APK found:  /run/media/blackshibe/_/system/system_ext/app/IntelligentObserver/IntelligentObserver.apk
+com.sonymobile.intelligent.observer
+APK found:  /run/media/blackshibe/_/system/system_ext/app/colorservice/colorservice.apk
+com.qti.service.colorservice
+APK found:  /run/media/blackshibe/_/system/system_ext/app/DynamicDDSService/DynamicDDSService.apk
+com.qualcomm.qti.dynamicddsservice
+APK found:  /run/media/blackshibe/_/system/system_ext/app/workloadclassifier/workloadclassifier.apk
+com.qualcomm.qti.workloadclassifier
+APK found:  /run/media/blackshibe/_/system/system_ext/app/datastatusnotification/datastatusnotification.apk
+com.qti.qualcomm.datastatusnotification
+APK found:  /run/media/blackshibe/_/system/system_ext/app/Iengine/Iengine.apk
+com.sonymobile.intelligent.iengine
+APK found:  /run/media/blackshibe/_/system/system_ext/app/XperiaEnterpriseService/XperiaEnterpriseService.apk
+com.sonymobile.enterprise.service
+APK found:  /run/media/blackshibe/_/system/system_ext/app/SemcSettings/SemcSettings.apk
+com.sonyericsson.settings
+APK found:  /run/media/blackshibe/_/system/system_ext/app/XperiaDeviceActions/XperiaDeviceActions.apk
+com.sonymobile.xperiadeviceactions
+APK found:  /run/media/blackshibe/_/system/system_ext/app/com.facebook.appmanager/com.facebook.appmanager.apk
+com.facebook.appmanager
+APK found:  /run/media/blackshibe/_/system/system_ext/app/externalkeyboardsinternational-release/externalkeyboardsinternational-release.apk
+com.sonymobile.android.externalkeyboard
+APK found:  /run/media/blackshibe/_/system/system_ext/app/UnsupportedHeadsetNotifier/UnsupportedHeadsetNotifier.apk
+com.sonyericsson.unsupportedheadsetnotifier
+APK found:  /run/media/blackshibe/_/system/system_ext/app/DeviceInfo/DeviceInfo.apk
+com.qti.qualcomm.deviceinfo
+APK found:  /run/media/blackshibe/_/system/system_ext/app/XperiaEnterprise/XperiaEnterprise.apk
+com.sonymobile.enterprise
+APK found:  /run/media/blackshibe/_/system/system_ext/app/WirelessPlaybackQuality/WirelessPlaybackQuality.apk
+com.sonyericsson.wirelessplaybackquality
+APK found:  /run/media/blackshibe/_/system/system_ext/app/atfwd/atfwd.apk
+com.qualcomm.atfwd
+APK found:  /run/media/blackshibe/_/system/system_ext/app/aptxui/aptxui.apk
+com.qualcomm.qtil.aptxui
+APK found:  /run/media/blackshibe/_/system/system_ext/app/ImsRcsService/ImsRcsService.apk
+vendor.qti.imsrcs
+APK found:  /run/media/blackshibe/_/system/system_ext/app/TransmitPower/TransmitPower.apk
+com.sonymobile.transmitpower
+APK found:  /run/media/blackshibe/_/system/system_ext/app/IddAgent_sharedUserId/IddAgent_sharedUserId.apk
+com.sonyericsson.idd.agent
+APK found:  /run/media/blackshibe/_/system/system_ext/app/pip/pip.apk
+com.sonymobile.pip
+APK found:  /run/media/blackshibe/_/system/system_ext/app/com.sonymobile.infoapp/com.sonymobile.infoapp.apk
+com.sonymobile.infoapp
+APK found:  /run/media/blackshibe/_/system/system_ext/app/CrashMonitor_sharedUserId/CrashMonitor_sharedUserId.apk
+com.sonyericsson.crashmonitor
+APK found:  /run/media/blackshibe/_/system/system_ext/app/WallpaperPicker/WallpaperPicker.apk
+com.sonymobile.wallpaperpicker
+APK found:  /run/media/blackshibe/_/system/system_ext/app/SimlockUnlockApp/SimlockUnlockApp.apk
+com.sonymobile.simlockunlockapp
+APK found:  /run/media/blackshibe/_/system/system_ext/app/uceShimService/uceShimService.apk
+com.qualcomm.qti.uceShimService
+APK found:  /run/media/blackshibe/_/system/system_ext/app/QesdkSysService/QesdkSysService.apk
+vendor.qti.qesdk.sysservice
+APK found:  /run/media/blackshibe/_/system/system_ext/app/ChromeCustomizations/ChromeCustomizations.apk
+com.android.partnerbrowsercustomizations.chromeHomepage
+APK found:  /run/media/blackshibe/_/system/system_ext/app/aptxacu/aptxacu.apk
+com.qualcomm.qtil.aptxacu
+APK found:  /run/media/blackshibe/_/system/system_ext/app/AptxNotifier/AptxNotifier.apk
+com.sonymobile.aptx.notifier
+APK found:  /run/media/blackshibe/_/system/system_ext/app/QtiTelephony/QtiTelephony.apk
+com.qti.phone
+APK found:  /run/media/blackshibe/_/system/system_ext/app/SusResCheck/SusResCheck.apk
+com.sonymobile.susrescheck
+APK found:  /run/media/blackshibe/_/system/system_ext/app/QtiTelephonyService/QtiTelephonyService.apk
+com.qualcomm.qti.telephonyservice
+APK found:  /run/media/blackshibe/_/system/system_ext/app/MultiwindowController/MultiwindowController.apk
+com.sonymobile.multiwindowcontroller
+APK found:  /run/media/blackshibe/_/system/framework/framework-res.apk
+android
+APK found:  /run/media/blackshibe/product/app/GoogleLocationHistory/GoogleLocationHistory.apk
+com.google.android.gms.location.history
+APK found:  /run/media/blackshibe/product/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk
+com.google.android.syncadapters.contacts
+APK found:  /run/media/blackshibe/product/app/Maps/Maps.apk
+com.google.android.apps.maps
+APK found:  /run/media/blackshibe/product/app/CameraCommonPermission/CameraCommonPermission.apk
+com.sonymobile.cameracommon.permission
+APK found:  /run/media/blackshibe/product/app/talkback/talkback.apk
+com.google.android.marvin.talkback
+APK found:  /run/media/blackshibe/product/app/LatinImeGoogle/LatinImeGoogle.apk
+com.google.android.inputmethod.latin
+APK found:  /run/media/blackshibe/product/app/WebViewGoogle/WebViewGoogle.apk
+com.google.android.webview
+APK found:  /run/media/blackshibe/product/app/clock-widgets-release/clock-widgets-release.apk
+com.sonymobile.advancedwidget.clock
+APK found:  /run/media/blackshibe/product/app/Videos/Videos.apk
+com.google.android.videos
+APK found:  /run/media/blackshibe/product/app/YTMusic/YTMusic.apk
+com.google.android.apps.youtube.music
+APK found:  /run/media/blackshibe/product/app/SpeechServicesByGoogle/SpeechServicesByGoogle.apk
+com.google.android.tts
+APK found:  /run/media/blackshibe/product/app/FaceLock/FaceLock.apk
+com.android.facelock
+APK found:  /run/media/blackshibe/product/app/TetherEntitlementCheck/TetherEntitlementCheck.apk
+com.sonyericsson.tetherentitlementcheck
+APK found:  /run/media/blackshibe/product/app/uimlpaservice/uimlpaservice.apk
+com.qualcomm.qti.lpa
+APK found:  /run/media/blackshibe/product/app/Duo/Duo.apk
+com.google.android.apps.tachyon
+APK found:  /run/media/blackshibe/product/app/uimremoteclient/uimremoteclient.apk
+com.qualcomm.uimremoteclient
+APK found:  /run/media/blackshibe/product/app/CameraAddonPermission/CameraAddonPermission.apk
+com.sonymobile.camera.addon.permission
+APK found:  /run/media/blackshibe/product/app/com.google.mainline.telemetry/com.google.mainline.telemetry.apk
+Shit
+APK found:  /run/media/blackshibe/product/app/Chrome/Chrome.apk
+com.android.chrome
+APK found:  /run/media/blackshibe/product/app/uimremoteserver/uimremoteserver.apk
+com.qualcomm.uimremoteserver
+APK found:  /run/media/blackshibe/product/app/DeviceStatisticsService/DeviceStatisticsService.apk
+com.qualcomm.qti.devicestatisticsservice
+APK found:  /run/media/blackshibe/product/app/SomcXperiaServices/SomcXperiaServices.apk
+com.sonymobile.xperiaservices
+APK found:  /run/media/blackshibe/product/app/YouTube/YouTube.apk
+com.google.android.youtube
+APK found:  /run/media/blackshibe/product/app/Photos/Photos.apk
+com.google.android.apps.photos
+APK found:  /run/media/blackshibe/product/app/com.google.android.modulemetadata/com.google.android.modulemetadata.apk
+Shit
+APK found:  /run/media/blackshibe/product/app/uimgbaservice/uimgbaservice.apk
+com.qualcomm.qti.uimGbaApp
+APK found:  /run/media/blackshibe/product/app/remoteSimLockAuthentication/remoteSimLockAuthentication.apk
+com.qualcomm.qti.remoteSimlockAuth
+APK found:  /run/media/blackshibe/product/app/update-center-config-late-cmz-stub-release/update-center-config-late-cmz-stub-release.apk
+com.sonymobile.updatecenter.config.latecmz
+APK found:  /run/media/blackshibe/product/app/GoogleContacts/GoogleContacts.apk
+com.google.android.contacts
+APK found:  /run/media/blackshibe/product/app/Drive/Drive.apk
+com.google.android.apps.docs
+APK found:  /run/media/blackshibe/product/app/android.autoinstalls.config.sony.xperia/android.autoinstalls.config.sony.xperia.apk
+android.autoinstalls.config.sony.xperia
+APK found:  /run/media/blackshibe/product/app/DeskClockGoogle/DeskClockGoogle.apk
+Shit
+APK found:  /run/media/blackshibe/product/app/remotesimlockservice/remotesimlockservice.apk
+com.qualcomm.qti.uim
+APK found:  /run/media/blackshibe/product/app/RideModeAudio/RideModeAudio.apk
+com.qualcomm.qti.ridemodeaudio
+APK found:  /run/media/blackshibe/product/app/Gmail2/Gmail2.apk
+com.google.android.gm
+APK found:  /run/media/blackshibe/product/app/gota-idd-service/gota-idd-service.apk
+com.sonymobile.gotaidd.service
+APK found:  /run/media/blackshibe/product/app/TrichromeLibrary/TrichromeLibrary.apk
+com.google.android.trichromelibrary
+APK found:  /run/media/blackshibe/product/app/update-center-config-auto-install-stub-release/update-center-config-auto-install-stub-release.apk
+com.sonymobile.updatecenter.config.autoinstall
+APK found:  /run/media/blackshibe/product/app/Podcasts/Podcasts.apk
+com.google.android.apps.podcasts
+APK found:  /run/media/blackshibe/product/app/GoogleOne/GoogleOne.apk
+com.google.android.apps.subscriptions.red
+APK found:  /run/media/blackshibe/product/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk
+com.google.android.partnersetup
+APK found:  /run/media/blackshibe/product/priv-app/CameraCommon/CameraCommon.apk
+com.sonymobile.cameracommon
+APK found:  /run/media/blackshibe/product/priv-app/Turbo/Turbo.apk
+com.google.android.apps.turbo
+APK found:  /run/media/blackshibe/product/priv-app/GoogleRestore/GoogleRestore.apk
+com.google.android.apps.restore
+APK found:  /run/media/blackshibe/product/priv-app/Messages/Messages.apk
+com.google.android.apps.messaging
+APK found:  /run/media/blackshibe/product/priv-app/AndroidAutoStub/AndroidAutoStub.apk
+com.google.android.projection.gearhead
+APK found:  /run/media/blackshibe/product/priv-app/TelephonyDebugTools/TelephonyDebugTools.apk
+com.sonymobile.telephonydebugtools
+APK found:  /run/media/blackshibe/product/priv-app/OMAClientProvisioning/OMAClientProvisioning.apk
+com.sonyericsson.android.omacp
+APK found:  /run/media/blackshibe/product/priv-app/SettingsIntelligence/SettingsIntelligence.apk
+com.android.settings.intelligence
+APK found:  /run/media/blackshibe/product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk
+com.google.android.onetimeinitializer
+APK found:  /run/media/blackshibe/product/priv-app/FilesGoogle/FilesGoogle.apk
+com.google.android.apps.nbu.files
+APK found:  /run/media/blackshibe/product/priv-app/SomcHook/SomcHook.apk
+com.sonymobile.hook
+APK found:  /run/media/blackshibe/product/priv-app/GmsCore/GmsCore.apk
+Shit
+APK found:  /run/media/blackshibe/product/priv-app/GmsCore/m/independent/AndroidPlatformServices.apk
+com.google.android.gms.policy_sidecar_aps
+APK found:  /run/media/blackshibe/product/priv-app/Velvet/Velvet.apk
+com.google.android.googlequicksearchbox
+APK found:  /run/media/blackshibe/product/priv-app/CarrierServices/CarrierServices.apk
+com.google.android.ims
+APK found:  /run/media/blackshibe/product/priv-app/GoogleDialer/GoogleDialer.apk
+com.google.android.dialer
+APK found:  /run/media/blackshibe/product/priv-app/SearchSelector/SearchSelector.apk
+com.google.android.apps.setupwizard.searchselector
+APK found:  /run/media/blackshibe/product/priv-app/Phonesky/Phonesky.apk
+Shit
+APK found:  /run/media/blackshibe/product/priv-app/Wellbeing/Wellbeing.apk
+Shit
+APK found:  /run/media/blackshibe/product/priv-app/ImsServiceEntitlement/ImsServiceEntitlement.apk
+com.android.imsserviceentitlement
+APK found:  /run/media/blackshibe/product/priv-app/ConfigUpdater/ConfigUpdater.apk
+com.google.android.configupdater
+APK found:  /run/media/blackshibe/product/overlay/SemcSettings-Platform-Overlay.apk
+com.android.rro.platform.semcsettings
+APK found:  /run/media/blackshibe/product/overlay/GmsConfigOverlayPhotos.apk
+com.google.android.overlay.gmsconfig.photos
+APK found:  /run/media/blackshibe/product/overlay/FrameworksResCommon_Sys.apk
+android.overlay.common
+APK found:  /run/media/blackshibe/product/overlay/GooglePermissionControllerFrameworkOverlay.apk
+com.google.android.overlay.modules.permissioncontroller.forframework
+APK found:  /run/media/blackshibe/product/overlay/TetheringRRO.apk
+com.android.networkstack.tethering.resources.overlay
+APK found:  /run/media/blackshibe/product/overlay/GmsConfigOverlayComms.apk
+com.google.android.overlay.gmsconfig.comms
+APK found:  /run/media/blackshibe/product/overlay/GmsConfigOverlayGSA.apk
+com.google.android.overlay.gmsconfig.gsa
+APK found:  /run/media/blackshibe/product/overlay/Settings-PDX201-Overlay.apk
+com.android.rro.product.settings
+APK found:  /run/media/blackshibe/product/overlay/ServiceWifiRes-Platform-Overlay.apk
+com.android.wifi.resources.overlay
+APK found:  /run/media/blackshibe/product/overlay/XperiaSystemServer-PDX201-Overlay.apk
+com.sonymobile.xperiasystemserver.product.overlay
+APK found:  /run/media/blackshibe/product/overlay/SystemUIRes-Platform-Overlay.apk
+com.android.systemui.platform.overlay
+APK found:  /run/media/blackshibe/product/overlay/GooglePermissionControllerOverlay.apk
+com.google.android.overlay.modules.permissioncontroller
+APK found:  /run/media/blackshibe/product/overlay/SettingsProvider-PDX201-Overlay.apk
+com.android.settingsprovider.product.overlay
+APK found:  /run/media/blackshibe/product/overlay/Settings-Platform-Overlay.apk
+com.android.rro.platform.settings
+APK found:  /run/media/blackshibe/product/overlay/GoogleExtServicesConfigOverlay.apk
+com.google.android.overlay.modules.ext.services
+APK found:  /run/media/blackshibe/product/overlay/FrameworkRes-Platform-Overlay.apk
+android.platform.overlay
+APK found:  /run/media/blackshibe/product/overlay/SystemUIResCommon_Sys.apk
+com.android.systemui.overlay.common
+APK found:  /run/media/blackshibe/product/overlay/SemcSettings-Pdx201-Overlay.apk
+com.android.rro.product.semcsettings
+APK found:  /run/media/blackshibe/product/overlay/GmsConfigOverlayCommon.apk
+com.google.android.overlay.gmsconfig.common
+APK found:  /run/media/blackshibe/product/overlay/ModuleMetadataGoogleOverlay.apk
+com.google.android.overlay.modules.modulemetadata.forframework
+APK found:  /run/media/blackshibe/product/overlay/SmartCleaner-PDX201-Overlay.apk
+com.sonymobile.smartcleaner.product.overlay
+APK found:  /run/media/blackshibe/product/overlay/BluetoothRes-Platform-Overlay.apk
+com.sonymobile.rro.platform.bluetooth
+APK found:  /run/media/blackshibe/product/overlay/CarrierConfig-Platform-Overlay.apk
+com.sonymobile.rro.platform.carrierconfig
+APK found:  /run/media/blackshibe/product/overlay/SettingsProvider-Platform-Overlay.apk
+com.android.settingsprovider.platform.overlay
+APK found:  /run/media/blackshibe/product/overlay/aptxacuOverlay.apk
+com.qualcomm.qtil.aptxacuOverlay
+APK found:  /run/media/blackshibe/product/overlay/SomcClockPlugins-Pdx201-Overlay.apk
+com.android.rro.product.semcclockplugins
+APK found:  /run/media/blackshibe/product/overlay/Stamina-Feature-Overlay.apk
+android.stamina.rro.feature.overlay
+APK found:  /run/media/blackshibe/product/overlay/GmsConfigOverlayWellbeing.apk
+com.google.android.overlay.gmswellbeingconfig
+APK found:  /run/media/blackshibe/product/overlay/TelephonyResCommon_Sys.apk
+com.android.phone.overlay.common
+APK found:  /run/media/blackshibe/product/overlay/NavigationBarModeGesturalExtraWideBack/NavigationBarModeGesturalOverlayExtraWideBack.apk
+com.android.internal.systemui.navbar.gestural_extra_wide_back
+APK found:  /run/media/blackshibe/product/overlay/NavigationBarModeGesturalWideBack/NavigationBarModeGesturalOverlayWideBack.apk
+com.android.internal.systemui.navbar.gestural_wide_back
+APK found:  /run/media/blackshibe/product/overlay/NavigationBarModeGesturalNarrowBack/NavigationBarModeGesturalOverlayNarrowBack.apk
+com.android.internal.systemui.navbar.gestural_narrow_back
+APK found:  /run/media/blackshibe/product/overlay/FontNotoSerifSource/FontNotoSerifSourceOverlay.apk
+com.android.theme.font.notoserifsource
+APK found:  /run/media/blackshibe/product/overlay/DisplayCutoutEmulationCorner/DisplayCutoutEmulationCornerOverlay.apk
+com.android.internal.display.cutout.emulation.corner
+APK found:  /run/media/blackshibe/product/overlay/DisplayCutoutEmulationTall/DisplayCutoutEmulationTallOverlay.apk
+com.android.internal.display.cutout.emulation.tall
+APK found:  /run/media/blackshibe/product/overlay/DisplayCutoutEmulationWaterfall/DisplayCutoutEmulationWaterfallOverlay.apk
+com.android.internal.display.cutout.emulation.waterfall
+APK found:  /run/media/blackshibe/product/overlay/NavigationBarMode3Button/NavigationBarMode3ButtonOverlay.apk
+com.android.internal.systemui.navbar.threebutton
+APK found:  /run/media/blackshibe/product/overlay/OneHandedModeGestural/OneHandedModeGesturalOverlay.apk
+com.android.internal.systemui.onehanded.gestural
+APK found:  /run/media/blackshibe/product/overlay/DisplayCutoutEmulationHole/DisplayCutoutEmulationHoleOverlay.apk
+com.android.internal.display.cutout.emulation.hole
+APK found:  /run/media/blackshibe/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+com.android.internal.systemui.navbar.gestural
+APK found:  /run/media/blackshibe/vendor/overlay/FrameworksRes-seine/FrameworksRes-seine.apk
+android.seine.overlay
+APK found:  /run/media/blackshibe/vendor/overlay/SettingsRes-Stamina-Overlay/SettingsRes-Stamina-Overlay.apk
+com.android.settings.stamina.res.overlay
+APK found:  /run/media/blackshibe/vendor/overlay/FrameworksRes-Stamina-Overlay/FrameworksRes-Stamina-Overlay.apk
+android.stamina.res.overlay
+APK found:  /run/media/blackshibe/vendor/overlay/SystemUIRes-Stamina-Overlay/SystemUIRes-Stamina-Overlay.apk
+com.android.systemui.stamina.res.overlay
+APK found:  /run/media/blackshibe/vendor/app/TimeService/TimeService.apk
+com.qualcomm.timeservice
+APK found:  /run/media/blackshibe/vendor/app/CACertService/CACertService.apk
+vendor.qti.hardware.cacert.server
+APK found:  /run/media/blackshibe/vendor/app/IWlanService/IWlanService.apk
+vendor.qti.iwlan
+APK found:  /run/media/blackshibe/vendor/app/CneApp/CneApp.apk
+com.qualcomm.qti.cne
