@@ -8,8 +8,8 @@ Tested on LineagOS 19.1, self-compiled from https://github.com/lineageos-on-pdx2
 
 ## Requirements
 
-    - You need to be able to mount the system partition in recovery (or as read-write while the phone is on) and connect through adb shell.
-    - You need a custom ROM which has all the required Sony cam libraries in the vendor partition.
+-   You need to be able to mount the system partition in recovery (or as read-write while the phone is on) and connect through adb shell.
+-   You need a custom ROM which has all the required Sony cam libraries in the vendor partition.
 
 ## Guide
 
