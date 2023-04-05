@@ -17,7 +17,7 @@ Tested on LineagOS 19.1, self-compiled from https://github.com/lineageos-on-pdx2
 
 1. Mount system in /system_mnt
    `adb shell mkdir /system_mnt`
-   `adb shell mount /dev/block/mapper/system_b /system_mnt # find the A/B slot you're using manually. Mine is system_b`
+   `adb shell mount /dev/block/mapper/system_b /system_mnt # find the A/B slot you're using manually, and mount its' partition to /system_mnt. Mine is system_b`
 
 2. Import priv-app permissions to stop bootloop
    `adb push packages/etc/permissions/privapp-permissions-sony.xml /system_mnt/system/etc/permissions/privapp-permissions-sony.xml`
